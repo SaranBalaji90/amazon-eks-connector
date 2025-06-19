@@ -1,6 +1,6 @@
 # EKS Connector
 
-EKS Connector is a client-side agent that connects any Kubernetes cluster to AWS.
+EKS Connector is a client-side agent that connects any Kubernetes cluster to EKS AWS.
 
 ## How it works
 
